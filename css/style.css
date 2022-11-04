@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+
+/* HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER */
+header{
+    background-color: rgb(58, 77, 125);
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+#logo{
+    width: 300px;
+    height: 300px;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    padding: 10px;
+}       
+
+ul li a:hover{
+
+    color: rgb(56, 10, 69);
+}
+
+/* BODY BODY BODY BODY BODY BODY BODY BODY BODY BODY */
+
+body{
+    background-color:white;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/* FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER */
+
+footer{
+    background-color:  rgb(58, 77, 125);
+    color: #fff;
+    text-align: center;
+}
