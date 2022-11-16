@@ -11,7 +11,6 @@ $err = '';
 
 
 
-
 if($_POST) {
     $title = $_POST['title'];
     $description = $_POST['description'];
